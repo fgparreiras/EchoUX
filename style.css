@@ -75,7 +75,7 @@ main {
 }
 
 .pagetitle {
-    margin-left: 244px;
+    margin-left: 14vw;
     margin-top: 56px;
 }
 
@@ -93,7 +93,7 @@ main {
     color: #fff;
     font-size: 40px;
     font-weight: 600;
-    margin-left: 244px;
+    margin-left: 14vw;
     max-width: 955px;
 }
 
@@ -107,7 +107,7 @@ main {
 
 .sections {
     margin-top: 90px;
-    margin-left: 424px;
+    margin-left: 20vw;
     max-width: 1050px;
     gap: 180px;
     display: flex;
@@ -145,7 +145,7 @@ main {
 }
 
 .weare {
-margin-left: 244px;
+margin-left: 14vw;
 max-width: 1400px;
 display: flex;
 flex-direction: row;
